@@ -5,6 +5,8 @@
 ### 해당 레포는 [이 레포](https://github.com/samsunghappytree123/makead) 를 사용하여 만든 레포며 원작자의 허가를 받은 상태입니다.
 ### 사용을 원하신다면 원 레포로 이동하여 사용허가 요청을 해주세요. 이 레포에서는 받지않습니다.
 
+## [서포트서버](https://discord.gg/5Akw3CyyAs)
+
 # 원 레포의 README를 포함합니다.
 
 # 메잌애드
